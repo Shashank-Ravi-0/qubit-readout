@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Shashank Ravi, Nicolas Gheeraert"
+title: "qubit-readout"
+version: 1.0.0
+url: "https://github.com/Shashank-Ravi-0/qubit-readout"
